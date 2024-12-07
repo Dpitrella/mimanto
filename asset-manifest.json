@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mimanto/static/css/main.d995ee0c.css",
+    "main.js": "/mimanto/static/js/main.390da0d7.js",
+    "static/js/453.d843288e.chunk.js": "/mimanto/static/js/453.d843288e.chunk.js",
+    "index.html": "/mimanto/index.html",
+    "main.d995ee0c.css.map": "/mimanto/static/css/main.d995ee0c.css.map",
+    "main.390da0d7.js.map": "/mimanto/static/js/main.390da0d7.js.map",
+    "453.d843288e.chunk.js.map": "/mimanto/static/js/453.d843288e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d995ee0c.css",
+    "static/js/main.390da0d7.js"
+  ]
+}
