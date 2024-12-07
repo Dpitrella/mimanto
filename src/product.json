@@ -1,0 +1,163 @@
+{
+    "productos": [
+        {
+            "id": "calendula",
+            "type": "manos",
+            "title": "crema de manos",
+            "cover": "/fotosProducto/images/calendula.jpg",
+            "description": "Es de rápida absorción.",
+            "cantidad":"60ml",
+            "ingredients": [
+                "crema",
+                " agua",
+                "aceite de caléndula",
+                "glicerina vegetal",
+                "aceite esencial de caléndula",
+                "aceite esencial azahar"
+            ]
+        },
+        {
+            "id": "geranio",
+            "type": "facial",
+            "title": "hidratante facial",
+            "cover": "/fotosProducto/images/geranio.jpg",
+            "description": "Se aplica por la noche y/o por la mañana, después de la limpieza y la tonificación",
+            "cantidad": "60ml",
+            "ingredients":[
+                "crema",
+                "agua",
+                "glicerina vegetal",
+                "aceite de rosa mosqueta",
+                "jojoba y palta",
+                "aceite esencial de rosas",
+                "aceite esencial de geranio",
+                "aceite esencial de incienso"
+            ]
+
+        },
+        {
+            "id": "azahar",
+            "type": "facial",
+            "title": "spray hidratante facial",
+            "cover": "/fotosProducto/images/azahar.jpg",
+            "description": "Se aplica por las noches y por las mañanas después de la limpieza habitual",
+            "cantidad":"60ml",
+            "ingredients":[
+                "agua",
+                "aceite de jojoba",
+                "glicerina vegetal",
+                "aceite esencial de rosas",
+                "aceite esencial de azahar"
+            ]
+        },
+        {
+            "id": "manzanilla",
+            "type": "facial",
+            "title": "tonico facial",
+            "cover": "/fotosProducto/images/manzanilla.jpg",
+            "description": "Se aplica por las noches después de la limpieza y, a la mañana al levantarse. Luego se hidrata o nutre según el caso",
+            "cantidad":"60ml",
+            "ingredients":[
+                "agua",
+                "hamamelis",
+                "aceite de manzanilla"
+            ]
+        },
+        {
+            "id": "arnica",
+            "type": "botiquin",
+            "title": "spray para golpes e irritaciones",
+            "cover":"/fotosProducto/images/arnica.jpg",
+            "description": "Calma el dolor y desinflama. NO APLICAR SOBRE HERIDAS ABIERTAS",
+            "cantidad":"40ml",
+            "ingredients":[
+                " agua",
+                "arnica",
+                "malva",
+                "alcohol",
+                "aceite esencial de lavanda"
+            ]
+        },
+        {
+            "id": "malva",
+            "type": "facial",
+            "title": "jabon facial",
+            "cover":"/fotosProducto/images/malva.jpg",
+            "description": "Cada noche se aplican dos o tres gotas sobre las manos húmedas y se frotan suavemente rostro y cuello. Se enjuaga con agua tibia. Luego se tonifica, hidrata y nutre",
+            "cantidad":"60ml",
+            "ingredients":[
+                "champu neutro",
+                "agua",
+                "malva",
+                "aceite esencial de caléndula",
+                "limon",
+                "petigrain"
+            ]
+        },
+        {
+            "id": "tea-tree",
+            "type":"botiquin",
+            "title": "gel antiseptico",
+            "cover":"/fotosProducto/images/tea tree.jpg",
+            "description": "calmante, descongestivo y cicatrizante.Se aplica en las zonas afectadas, por las noches, luego de la rutina de higiene. Por la mañana se debe aplicar protector solar",
+            "cantidad":"40ml",
+            "ingredients":[
+                "gel neutro",
+                "agua",
+                "jojoba",
+                "malva",
+                "hamamelis",
+                "aceite esencial de tea-tree"
+            ]
+        },
+        {
+            "id": "sandalo",
+            "type":"facial",
+            "title": "nutritiva facial",
+            "cover":"/fotosProducto/images/sandalo.jpg",
+            "description": "Se aplica siempre después de la limpieza y el tónico, por la noche y por la mañana",
+            "cantidad":"60ml",
+            "ingredients":[
+                "crema",
+                "agua",
+                "aceite de jojoba",
+                "aceite de rosa mosqueta",
+                "sandalo",
+                "glicerina vegetal",
+                "aceite esencial de rosas",
+                "incienso"
+            ]
+        },
+        {
+            "id": "violetas",
+            "type": "cuerpo",
+            "title": "hidratante corporal",
+            "cantidad":"200ml",
+            "cover":"/fotosProducto/images/violetas.jpg",
+            "description": "se aplica diariamente",
+            "ingredients":[
+                "crema",
+                "agua",
+                "glicerina vegetal",
+                "aceite de palta",
+                "aceite de jojoba",
+                "aceite de violeta",
+                "aceite de sandalo"
+            ]
+        },
+        {
+            "id": "lavanda",
+            "type":"botiquin",
+            "title": "balsamo para golpes y quemaduras",
+            "cantidad":"200ml",
+            "cover":"/fotosProducto/images/lavanda.jpg",
+            "description": "Ideal para golpes, picaduras, pruritos, irritaciones, quemaduras por exposición al sol. Hidrata, calma, desinflama y reconforta la piel",
+            "ingredients":[
+                "gel neutro",
+                "aceite de caléndula",
+                "malva",
+                "aceite esencial de lavanda"
+            ]
+        }
+    ]
+}

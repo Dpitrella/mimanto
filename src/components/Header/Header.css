@@ -1,0 +1,30 @@
+.header-content {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.name img {
+    margin-top: 15%;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #A2A9B8;
+    height: 30%;
+    width: 90px;
+}
+.inicio {
+    color: #334A5B;
+    background-color: #EEF7F2;
+}
