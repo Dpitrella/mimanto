@@ -1,0 +1,30 @@
+.content-product {
+    display: flex;
+    justify-content: space-around;
+    background-color: #EEF7F2;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.product-name {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin-left: 15%;
+    color: #60737F;
+}
+p {
+    display: flex;
+    text-align: start;
+    justify-content: center;
+    align-items: center;
+    color:   #60737F;
+    font-family:  'Gill Sans MT', sans-serif;
+    font-size: 18px;
+    width: 50%;
+    margin-left: 10%;
+   
+}
+.img-home {
+  margin-right: 5%;
+  width: 20%;
+}
