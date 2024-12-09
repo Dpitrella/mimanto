@@ -1,0 +1,28 @@
+.backg {
+    background-color: #EEF7F2;
+}
+
+.title {
+    color: #A2A9B8;
+}
+
+ul {
+    display: grid;
+    grid-template-columns: 350px 350px 350px ;
+    grid-template-rows: 300px 300px;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.link-product {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+    height: 100%;
+}
+
+.img-cover {
+    width: 40%;
+}

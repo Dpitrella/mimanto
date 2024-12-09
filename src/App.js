@@ -1,10 +1,11 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import ProductList from '../src/components/ProductList/ProductList';
+
 import './App.css';
 import Header from './components/Header/Header';
-import Content from './components/Content/Content';
+import Product from './pages/Product/Product.jsx';
 import Footer from './components/Footer/Footer'
+import Home from './pages/Home/Home.jsx';
 
 function App() {
   return (
@@ -12,8 +13,8 @@ function App() {
       <div className="App">
         <Header />
         <Routes>
-          <Route path="/" element={<ProductList />} />
-          <Route path="/producto/:id" element={<Content />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/producto/:id" element={<Product />} />
         </Routes>
         <Footer />
       </div>
