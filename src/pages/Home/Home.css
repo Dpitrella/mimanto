@@ -3,17 +3,32 @@
 }
 
 .title {
+    padding-top: 3%;
+    padding-bottom: 3%;
     color: #A2A9B8;
 }
 
 ul {
     display: grid;
-    grid-template-columns: 350px 350px 350px ;
+    grid-template-columns: 350px 350px 350px;
     grid-template-rows: 300px 300px;
     list-style: none;
+    gap: 25px;
     justify-content: center;
     align-items: center;
 
+}
+
+.product-name {
+    display: flex;
+ 
+    margin: 0%;
+    height: 50px;
+    width: 70%;
+    text-align: center;
+    background-color: #394B43;
+    opacity: 50%;
+    color: white;
 }
 
 .link-product {
@@ -24,5 +39,5 @@ ul {
 }
 
 .img-cover {
-    width: 40%;
+    width: 70%;
 }

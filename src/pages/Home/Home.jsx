@@ -11,11 +11,11 @@ function Home() {
 
     return (
         <div className='backg'>
-            <h2 className='title'>Nuestros productos</h2>
+            <h2 className='title'>NUESTROS PRODUCTOS</h2>
             <ul className='liste-product'>
                 {productos.map(producto => (
                     <li className='producto' key={producto.id} >
-                        <Link className='link-product' to={`/producto/${producto.id}`}>{producto.title} <img className='img-cover' src={producto.cover} alt="" /> </Link>
+                        <Link className='link-product' to={`/producto/${producto.id}`}><p className='product-name'>{producto.title}</p> <img className='img-cover' src={producto.cover} alt="" /> </Link>
                         
                     </li>
                 ))}
